@@ -1,0 +1,40 @@
+/* body{
+    background: rgb(230, 230, 230);
+}
+
+.container{
+    background: #fff ;
+    border-radius: 5px !;
+} */
+
+hr{
+    color: rgb(241, 241, 241);
+}
+
+p{
+    margin: 10px 0 !important;
+}
+
+.login-conatiner{
+    width: 500px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.fa-small{
+    font-size: 15px !important;
+}
+
+.fa-edit, .fa-trash{
+    font-size: 16px !important;
+}
+
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small{
+    width: 170px;
+}
+
